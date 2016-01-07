@@ -8,7 +8,7 @@
 - Default Props
 - Prop Types
 
-###Webpack
+<!-- ###Webpack
 - Dependencies
 	- --save vs --save-dev
 	- File Tree
@@ -22,9 +22,9 @@
 - Config
 	- Entry
 	- Ouput
-	- Loaders
+	- Loaders -->
 
-###Basic React Review
+<!-- ###Basic React Review
 - Render Method
 	- JSX
 	- Curly Braces for JS
@@ -37,16 +37,16 @@
 	- onWhateverElseYouNeed
 - Props
 	- <Component prop={value} />
-	- this.props
+	- this.props -->
 
 ###Component Life-Cycle
-- Mounting
+<!-- - Mounting
 	- componentWillMount
 	- componentDidMount
 - Updating
 	- componentWillReceiveProps
 - Unmounting
-	- componentWillUnmount
+	- componentWillUnmount -->
 
 ###Small JS Context Review
 - Function.prototype.bind

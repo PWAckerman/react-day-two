@@ -7,6 +7,8 @@ var Display = React.createClass({
 				<h1>{this.props.temp}</h1>
 				<h1>{this.props.weather}</h1>
 			</div>
-		)	
+		)
 	}
 })
+
+export default Display
